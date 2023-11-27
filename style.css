@@ -18,7 +18,10 @@ background-image: linear-gradient(to right, #00A8B5, #009CA6);
 .register-left{
     text-align: center;
     color: #fff;
-    padding:30px;
+    padding: 30px !important;
+    border-top-right-radius: 10% 50%;
+    border-bottom-right-radius: 10% 50%;
+    border: 1px solid #ddd;
 }
 .register-left img{
     margin-top: 60px;
